@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
 
-from test_pkg.texto import*
+from tarea3_micros.texto import*
 
 mostrar_tabla()
